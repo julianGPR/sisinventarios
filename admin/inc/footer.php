@@ -56,7 +56,7 @@
   })
 </script>
 <footer class="main-footer text-sm">
-  <strong><?php echo $_settings->info('short_name') ?><a href="https://tareacompleto1.blogspot.com/" target="_blank"> Tarea Completo</a>
+  <strong><?php echo $_settings->info('short_name') ?><a href="https://tareacompleto1.blogspot.com/" target="_blank"> Industrias Gafra todos los derechos reservados</a>
     <!-- <a href=""></a> -->
   </strong>
   <div class="float-right d-none d-sm-inline-block">
